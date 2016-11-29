@@ -21,7 +21,7 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>http://x5.justep.com/apps/x5.png</string>
+     <string>http://www.w123go.com/w123go_logo.jpg</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -30,7 +30,7 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的小图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>http://x5.justep.com/apps/x5.png</string>
+     <string>http://www.w123go.com/w123go_logo.jpg</string>
     </dict>
    </array>
    <key>metadata</key>
